@@ -1,0 +1,17 @@
+{
+  "name": "battle-ship-game",
+  "version": "1.0.0",
+  "description": "a sample two player game",
+  "main": "main.js",
+  "scripts": {
+    "start":"node main.js",
+    "test": "test"
+  },
+  "keywords": [
+    "battleship",
+    "ship",
+    "game"
+  ],
+  "author": "azeemchauhan@gmail.com",
+  "license": "ISC"
+}
